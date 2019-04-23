@@ -6,9 +6,8 @@
 ----> Output: 1 number (Data type: integer) [Output type: Dynamic]
 
 ----> Lets goto program click on [me](https://github.com/SatyanarayanaMutta/Problem-Solving-Skills-and-Programming-using-Python/blob/master/max%20of%203%20numbers.py)	
-
-'''
+```
 In this program you need to intialize 3 numbers for problem
 find maximum value using max() 
 print out maximum value as max() output
-'''
+```
